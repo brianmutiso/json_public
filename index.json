@@ -1,0 +1,14 @@
+{
+	"success": true,
+	"data": {
+		"token": "16|b3zRIfWcc9TIUFj5MMiz9R0jnEG4imTYXyRVzy3l",
+		"user": {
+			"id": 1,
+			"name": "Kenya Friesen",
+			"email": "mdavis@yahoo.com",
+			"email_verified_at": "2022-11-18T00:27:42.000000Z",
+			"created_at": "2022-11-18T00:27:42.000000Z",
+			"updated_at": "2022-11-18T00:27:42.000000Z"
+		}
+	}
+}
